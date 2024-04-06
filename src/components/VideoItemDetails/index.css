@@ -1,0 +1,59 @@
+.oasis1,
+.oasis2 {
+  color: #475569;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.hor {
+  color: #475569;
+  margin: 10px;
+}
+.first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.second {
+  display: flex;
+  flex-direction: row;
+}
+.third {
+  display: flex;
+  flex-direction: row;
+}
+.fourth {
+  display: flex;
+  flex-direction: row;
+}
+.pro1 {
+  width: 100px;
+}
+.fifth {
+  display: flex;
+  flex-direction: column;
+}
+.forest1 {
+  color: #0f0f0f;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.forest2 {
+  color: #475569;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.forest3 {
+  color: #1e293b;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.oasis {
+  color: #d7dfe9;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.forest{
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 10px;
+}

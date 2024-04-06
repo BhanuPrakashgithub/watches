@@ -1,0 +1,110 @@
+.rabbit {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+  text-decoration: none;
+}
+.rabbit1 {
+  list-style-type: none;
+}
+.coloring {
+  color: red;
+  margin: 10px;
+}
+.coloring1 {
+  color: black;
+  margin: 10px;
+}
+.para1 {
+  color: black;
+  font-weight: bold;
+  margin: 10px;
+}
+.para2 {
+  color: black;
+  margin: 10px;
+}
+.head {
+  color: black;
+  font-family: 'Roboto';
+}
+.para4 {
+  color: black;
+  font-family: 'Roboto';
+}
+.mango {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.mid1 {
+  width: 50px;
+  margin: 20px;
+}
+.off1 {
+  margin-left: auto;
+  background-color: transparent;
+  border-width: 0px;
+}
+.off2 {
+  display: flex;
+  flex-direction: column;
+}
+.mark1 {
+  width: 200px;
+}
+.mark2 {
+  color: black;
+}
+.mark3 {
+  background-color: transparent;
+  color: #383838;
+  border: 5px solid #383838;
+  width: 150px;
+  height: 30px;
+}
+.list1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.boy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flight1 {
+  width: 500px;
+}
+.head2 {
+  color: black;
+  font-family: 'Roboto';
+}
+.polyster {
+  background-color: blue;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+.des {
+  color: #475569;
+  font-family: 'Roboto';
+}
+.input1 {
+  background-color: transparent;
+  width: 400px;
+}
+.up1 {
+  background-color: transparent;
+}
+.colored {
+  color: white;
+  margin: 10px;
+}
+.paragraph {
+  color: white;
+  margin: 10px;
+}

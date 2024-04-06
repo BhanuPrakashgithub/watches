@@ -1,0 +1,59 @@
+.lists-items {
+  list-style-type: none;
+  margin: 20px;
+}
+.paint {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.cursor {
+  width: 300px;
+}
+.actor1 {
+  display: flex;
+  flex-direction: column;
+}
+.actor2 {
+  display: flex;
+  flex-direction: row;
+}
+.rain1 {
+  color: white;
+  font-family: 'Roboto';
+  margin: 10px;
+  text-decoration: none;
+}
+.rain2 {
+  color: #d7dfe9;
+  font-family: 'Roboto';
+  margin: 10px;
+  text-decoration: none;
+}
+.rain3 {
+  color: #d7dfe9;
+  font-family: 'Roboto';
+  margin: 10px;
+  text-decoration: none;
+}
+.rain4 {
+  color: #d7dfe9;
+  font-family: 'Roboto';
+  margin: 10px;
+  text-decoration: none;
+}
+.heat1 {
+  color: black;
+  font-family: 'Roboto';
+  margin: 10px;
+  text-decoration: none;
+}
+.heat2,
+.heat3,
+.heat4 {
+  color: #616e7c;
+  font-family: 'Roboto';
+  margin: 10px;
+  text-decoration: none;
+}

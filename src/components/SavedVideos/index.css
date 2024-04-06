@@ -1,0 +1,22 @@
+.fire1 {
+  color: red;
+  background-color: black;
+  border-radius: 60px;
+  margin: 20px;
+}
+.fire2 {
+  color: red;
+  background-color: #d7dfe9;
+  border-radius: 60px;
+  margin: 20px;
+}
+.head-fire1 {
+  color: white;
+  margin: 20px;
+  font-family: 'Roboto';
+}
+.head-fire2 {
+  color: black;
+  margin: 20px;
+  font-family: 'Roboto';
+}

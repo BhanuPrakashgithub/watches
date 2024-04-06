@@ -1,0 +1,78 @@
+.im2 {
+  width: 200px;
+}
+.im3 {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  margin-top: 8px;
+  padding: 0px;
+}
+.im4 {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+.but2 {
+  background-color: transparent;
+  border-width: 0px;
+  margin: 20px;
+}
+.but1 {
+  background-color: transparent;
+  color: #171f46;
+  border: 5px solid #171f46;
+  border-radius: 10px;
+  border-width: 0px;
+  margin: 20px;
+}
+.but5 {
+  background-color: transparent;
+  color: #171f46;
+  border: 5px solid white;
+  border-radius: 10px;
+  border-width: 0px;
+  margin: 20px;
+}
+.water1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  border-radius: 10px;
+  padding: 20px;
+}
+.water2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+.trigger-button1 {
+  color: white;
+  background-color: transparent;
+  border: 3px solid white;
+  margin: 20px;
+  padding: 10px;
+}
+.utensils {
+  color: #7e858e;
+  border: 3px solid #7e858e;
+  background-color: transparent;
+  margin: 20px;
+  padding: 10px;
+}
+.ut1 {
+  color: white;
+}
+.trigger-button2 {
+  color: white;
+  background-color: blue;
+  border-width: 0px;
+  margin: 20px;
+  padding: 10px;
+}

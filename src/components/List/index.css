@@ -1,0 +1,41 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  max-width: 30%;
+  margin: 20px;
+}
+.deer1 {
+  width: 200px;
+}
+.rest1 {
+  display: flex;
+  flex-direction: row;
+}
+.deer2 {
+  width: 100px;
+  height: 30px;
+}
+.rest2 {
+  display: flex;
+  flex-direction: column;
+}
+.rest3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para-color {
+  color: #1e293b;
+
+  font-family: 'Roboto';
+}
+.para-color1 {
+  color: #94a3b8;
+  font-family: 'Roboto';
+}
+.para-color2 {
+  color: #475569;
+  font-family: 'Roboto';
+}
